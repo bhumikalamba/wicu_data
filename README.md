@@ -1,11 +1,11 @@
 # wicu_data
 pre-processing, EDA, modelling scripts on WICU data
 
-# Folder Info: 
-# # WICU_Singapore/WICU_COMBINED_OUTPUT: 
+# Contents
+WICU_Singapore/WICU_COMBINED_OUTPUT: 
 Contains: 
 # 1. Activity_20s_window: 
-Desc:contains Accelerometer Based data for different sessions. Sessions are 10 hour shift (7AM-7PM) on a particular day for which the data was taken. Each raw data file has data for Session #X collected from unique badge. B-XXXX.
+Desc:contains Accelerometer Based data for different sessions. Sessions are 10 hour shift (7AM-7PM) on a particular day for which the data was taken. Each raw csv has data for Session #X collected from unique badge B-XXXX.
 
 Component Sheets:
     - summary: session number and badge id used for data collection.
