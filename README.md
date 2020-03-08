@@ -4,7 +4,7 @@ pre-processing, EDA, modelling scripts on WICU data
 # Contents
 WICU_Singapore/WICU_COMBINED_OUTPUT: 
 Contains: 
-# 1. Activity_20s_window: 
+1. Activity_20s_window: 
 Desc:contains Accelerometer Based data for different sessions. Sessions are 10 hour shift (7AM-7PM) on a particular day for which the data was taken. Each raw csv has data for Session #X collected from unique badge B-XXXX.
 
 Component Sheets:
@@ -15,7 +15,6 @@ Component Sheets:
    
     
     1. Each of the excel sheet has 10 hours of 20 second interval data 
-# 2. Location based data. 
-    1. Detections_Prox_F2F
-3. Audio Volume Data
-    1. Audio_20s_window
+2. Detections_Prox_F2F
+3. Audio_20s_window
+4. Speech_Profile_Pitch
